@@ -1,6 +1,6 @@
 ### Olá!!
 
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript, HTML e CSS
 
 - 📫 Contato: thainamatos.if@hotmail.com
 
